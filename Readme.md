@@ -1,4 +1,6 @@
-![git log history](<Screenshot (1).png>)
+![git log history](<Screenshot (1).png>) 
+
+
 #Commit changes Explanation
 <br>
 <h2>Commit-1</h2>
@@ -17,8 +19,15 @@
 <h1>ASSESSMENT-2</h1>
  created a new branch named feature/update-readme 
  created and merged a pull request successfully
- <br>
-![Screenshot (2)](https://github.com/user-attachments/assets/7c7fdfba-d008-416e-aadf-e46dd35e81fb)
+<br>
+![pull request](https://github.com/user-attachments/assets/2c7c38a9-e69f-44e2-9521-2551ef38e14d)
+
+ 
+
+
+
+
+
 
 
 
