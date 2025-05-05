@@ -14,8 +14,9 @@
 <h2>Remove Task</h2>
 <p> Removed the certain task </p>
 
-
+<h1>ASSESSMENT-2</h1>
  created a new branch named feature/update-readme 
+ created and merged a pull request successfully
 ![Screenshot (2)](https://github.com/user-attachments/assets/7c7fdfba-d008-416e-aadf-e46dd35e81fb)
 
 
