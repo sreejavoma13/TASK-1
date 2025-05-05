@@ -2,7 +2,7 @@ Hello , This is Sreeja. I am from Hyderabad.
 I am currently working on my Git Hub task
 In this Task, I am going to work on things like 
 creating a local repository,
-creating a text file in it , pushing it to github
+pushing it to github
 creating branches
 observing merge conflicts
 and Solving the merging conflicts.
