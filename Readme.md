@@ -16,6 +16,7 @@
 
 
  created a new branch named feature/update-readme 
+![Screenshot (2)](https://github.com/user-attachments/assets/7c7fdfba-d008-416e-aadf-e46dd35e81fb)
 
 
 
